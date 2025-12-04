@@ -1,5 +1,5 @@
-module github.com/kregan/dartbuddy
+module github.com/kregan77/dartbuddy
 
 go 1.25
 
-require github.com/google/uuid v1.6.0 // indirect
+require github.com/google/uuid v1.6.0
